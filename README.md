@@ -8,6 +8,7 @@
  <br>
  <p>I am interested to learn new things</p>
  <br>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJ0RKGaH2AEiJRSzAoLxpF7wxh2awQGzFmw&usqp=CAU" alt="/>
   <p>HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB </p>
 <h2>I learn code from:--</h2>
 <a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="50" width="120"></a>
