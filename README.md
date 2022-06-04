@@ -6,7 +6,7 @@
  <br>
  <p>I am passionate about Full Stack Web developer</p>
  <br>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJ0RKGaH2AEiJRSzAoLxpF7wxh2awQGzFmw&usqp=CAU" height="50"  width="120" <p>I am interested to learn new things</p>/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJ0RKGaH2AEiJRSzAoLxpF7wxh2awQGzFmw&usqp=CAU" height="50"  width="50" <p>I am interested to learn new things</p>/>
  <p>I am interested to learn new things</p>
  <br> 
   <p>HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB </p>
