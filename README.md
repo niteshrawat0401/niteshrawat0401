@@ -6,7 +6,7 @@
  <br>
  <p>I am passionate about Full Stack Web developer</p>
  <br>
-<p>I am keen to learn new things</p>
+<p>I am interested to learn new things</p>
  <br> 
   <p>Knowledge about HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB </p>
   <br>
