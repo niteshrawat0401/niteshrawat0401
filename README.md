@@ -6,10 +6,9 @@
  <br>
  <p>I am passionate about Full Stack Web developer</p>
  <br>
-<p>I am interested to learn new things</p>/>
-
+<p>I am interested to learn new things</p>
  <br> 
-  <p>HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB </p>
+  <p>Knowledge of HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB </p>
 <h2>I learn code from:--</h2>
 <a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="50" width="120"></a>
 
