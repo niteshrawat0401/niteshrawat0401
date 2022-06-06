@@ -10,7 +10,7 @@
  <br> 
   <p>Knowledge about HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB </p>
   <br>
-  <p>How to reach me: <a href="gmail.com">niteshrawat0401@gmail.com</a> </p>
+  <p>How to reach me: <a href="">niteshrawat0401@gmail.com</a> </p>
   
 <h2>I learn code from:--</h2>
 <a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="50" width="120"></a>
