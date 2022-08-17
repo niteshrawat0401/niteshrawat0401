@@ -4,9 +4,7 @@
   
 </h1>
  <br>
- <p>I am passionate about Full Stack Web developer</p>
- <br>
-<p>I am interested to learn new things</p>
+ <p>I am a Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.</p>
  <br> 
   <p>Knowledge about HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB </p>
   <br>
