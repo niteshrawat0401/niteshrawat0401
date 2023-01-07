@@ -22,8 +22,8 @@ I am a Passionate Full Stack Web Developer with a specialization in MERN stack. 
 ![](https://github-profile-trophy.vercel.app/?username=niteshrawat0401&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nitesh rawat)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=nitesh rawat&theme=default&response=true&border=true&time=true&icon=default"/></a>
+<!-- [![](https://gtce.itsvg.in/api?username=nitesh rawat)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src=""/>New Tweet</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
