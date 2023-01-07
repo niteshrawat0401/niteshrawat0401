@@ -1,4 +1,4 @@
-<h1 align="center">🕉☮✝☯</h1>
+</br>
 
 <h1 align="center">Hi , I'm Nitesh Singh Rawat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   
@@ -21,13 +21,9 @@ I am a Passionate Full Stack Web Developer with a specialization in MERN stack. 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niteshrawat0401&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-<!-- [![](https://gtce.itsvg.in/api?username=nitesh rawat)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src=""/>New Tweet</a>
-
+[![](https://visitcount.itsvg.in/api?id=niteshrawat0401&icon=0&color=12)](https://visitcount.itsvg.in)
+  
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=niteshrawat0401&icon=0&color=12)](https://visitcount.itsvg.in)
 
